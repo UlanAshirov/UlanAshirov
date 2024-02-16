@@ -3,9 +3,9 @@
 I write in Kotlin and Java. I always adhere to the principles of OOP programming and make sure that my code fits SOLID! To work with the network, I use Retrofit and OkHttp, and to control the versions of my libraries I use the Version Catalog. Currently studying Jetpack Compose and Compose Kotlin multiplatform for cross-platform development
 
 - 📫 How to reach me:
-**Email:** [My gmail address](ulanashirovdev@gmail.com)  
-**Telegram:** [My telegram for contact](https://t.me/ulanashirov)  
-**LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/ulanashirov)
+[![Gmail](https://img.shields.io/badge/Gmail-ulan_gmail-blue)](ulanashirovdev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-ulanashirov-blue)](https://t.me/ulanashirov)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ulan_linkedin-blue)](https://www.linkedin.com/in/ulanashirov)
 
 I completed an internship at GeekStudio, where I learned to write clean code using Functional Multimodularity in conjunction with a Clean Architecture. During my internship, I developed a dictionary application and an application for searching for designers and design companies, Style Scope!
 I was responsible for developing the application architecture and implementing functions such as pagination, search, filtering, profile editing, and also conducted code reviews for other internship participants.
