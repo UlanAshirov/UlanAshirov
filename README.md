@@ -21,14 +21,14 @@ When I was working on the Style Scope project, we did not have time to deliver t
 - 🛠️ My skills:  
 1)JAVA, KOTLIN  
 2)ANDROID SDK  
-3)RETROFIT  
+3)RETROFIT, KTOR  
 4)Dagger HILT, KOIN  
-5)KOTLIN DSL, VERSION CATALOG  
+5)KOTLIN DSL  
 6)JETPACK COMPOSE  
 7)FIREBASE  
-8)MVVM AND MVP  
+8)MVVM, MVP, MVI  
 9)CLEAN ARCHITECTURE, MULTI MODULE  
-10)COROUTINES, LIVE DATA AND FLOW  
+10)COROUTINES, LIVE DATA, FLOW  
 <!--
 **UlanAshirov/UlanAshirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
